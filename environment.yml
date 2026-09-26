@@ -1,0 +1,13 @@
+name: TLP
+
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pytorch
+  - pytorch-cuda=12.1
