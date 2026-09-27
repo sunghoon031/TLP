@@ -1,6 +1,6 @@
-# Robust Single-Parameter Point Cloud Registration using Truncated Lp Norms
+# Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions
 
-This is the Python implementation of our work **"Robust Single-Parameter Point Cloud Registration using Truncated Lp Norms"**. 
+This is the Python implementation of our work **"Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions"**. 
 
 The link to the paper will be provided here when it's ready.
 
